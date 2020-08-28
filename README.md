@@ -9,3 +9,5 @@ This is modified Caesar Cipher, where the key you provide shifts the alphabets a
 > pip install -r requirements.txt
 
 > python RKCCipher.py
+
+![Screenshot](https://raw.githubusercontent.com/rubenkharel/RKCCipher/master/result.png)
