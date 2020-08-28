@@ -6,8 +6,8 @@ This is modified Caesar Cipher, where the key you provide shifts the alphabets a
 
 > git clone https://github.com/rubenkharel/RKCCipher && cd RKCCipher
 
-> pip install -r requirements.txt
+> pip3 install -r requirements.txt
 
-> python RKCCipher.py
+> python3 RKCCipher.py
 
 ![Screenshot](https://raw.githubusercontent.com/rubenkharel/RKCCipher/master/result.png)
