@@ -5,5 +5,7 @@ This is modified Caesar Cipher, where the key you provide shifts the alphabets a
 ## Setup
 
 > git clone https://github.com/rubenkharel/RKCCipher
+
 > pip install -r requirements.txt
+
 > python RKCCipher.py
